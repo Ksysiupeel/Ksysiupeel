@@ -5,7 +5,7 @@
 
 - 🌐 Website: [ksysiupeel.pl](https://ksysiupeel.pl/)
 
-- 💬 Contact: **discord: ksysiupeel#0847**
+- 💬 discord: **ksysiupeel#0847**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
