@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ksysiupeel</h1>
-<h3 align="center">An ordinary man from Poland who loves to write backend. His favorite languages ​​are python and golang.</h3>
-
-- 👨‍💻 What am I doing now?: **I'm currently improving my programming skills**
+<h1 align="center">Hi 👋</h1>
+<p align="center">My name is Krzysztof. I am a young software engineer.</p>
 
 - 🌐 Website: [ksysiupeel.pl](https://ksysiupeel.pl/)
 
@@ -9,7 +7,6 @@
 
 ## Languages and Frameworks:
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
-<a href="https://golang.org" target="_blank"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> </a>
 <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="fastapi"/> </a>
