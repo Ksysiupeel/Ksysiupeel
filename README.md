@@ -17,7 +17,7 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
 
 ## Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksysiupeel&show_icons=true&locale=en" alt="ksysiupeel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksysiupeel&show_icons=true&locale=en&theme=radical" alt="ksysiupeel" /></p>
 
 ## Top Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksysiupeel&show_icons=true&locale=en&layout=compact" alt="ksysiupeel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksysiupeel&show_icons=true&locale=en&layout=compact&theme=radical" alt="ksysiupeel" /></p>
