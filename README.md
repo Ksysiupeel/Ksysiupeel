@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<p align="center">My name is Krzysztof. I am a young software engineer.</p>
+<p align="center">My name is Krzysztof.</p>
 
 - 🌐 Website: [ksysiupeel.pl](https://ksysiupeel.pl/)
 
