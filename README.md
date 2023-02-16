@@ -2,7 +2,8 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p>My name is Krzysztof and I'm a young developer who is constantly learning new technologies. I started programming at the end of 2017. Back then, I was writing simple programs in C++. Currently, my main and favorite programming language is Python. Backend is my strong point.</p>
+<p>I am a fullstack developer with a passion for Python. Programming has always been a fascination for me, and I enjoy using my skills to create solutions that help make people's lives easier. I am constantly learning and exploring new technologies to keep up with the ever-changing programming landscape. As a programmer, I
+am committed to writing clean, efficient, and maintainable code, and I take great pride in the work that I produce.</p>
 
 
 ## 💻 Languages and Frameworks
