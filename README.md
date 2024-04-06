@@ -2,18 +2,16 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p>I am a fullstack developer with a passion for Python. Programming has always been a fascination for me, and I enjoy using my skills to create solutions that help make people's lives easier. I am constantly learning and exploring new technologies to keep up with the ever-changing programming landscape. As a programmer, I
-am committed to writing clean, efficient, and maintainable code, and I take great pride in the work that I produce.</p>
+<p>I'm a software developer with a passion for Python and Go. I'm particularly passionate about developing APIs built on a foundation of microservices architecture. Docker is my toolkit of choice, especially for its containerization magic. I'm also fascinated by cloud technologies. Let's connect and explore the exciting possibilities together!</p>
 
 
 ## 💻 Languages and Frameworks
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/></a>
+<a href="https://go.dev/" target="_blank"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/> </a> 
 <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="django rest"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="fastapi"/></a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/></a>
 
 ## 🔧 Tools
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
