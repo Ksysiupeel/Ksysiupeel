@@ -16,13 +16,3 @@
 ## 🔧 Tools
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
-
-## 🌐 Socials
-<a href="https://www.instagram.com/ksysiupeel/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/> </a>
-<a href="https://twitter.com/ksysiupeel" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/> </a>
-<a href="https://stackoverflow.com/users/13066235/ksysiupeel" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack"/>  </a>
-
-## 📊 Github Stats
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ksysiupeel&show_icons=true&locale=en&theme=radical" alt="ksysiupeel" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ksysiupeel&show_icons=true&locale=en&layout=compact&theme=radical" alt="ksysiupeel" /></p>
-
